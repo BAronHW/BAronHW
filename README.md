@@ -6,9 +6,7 @@
 - 📫 How to reach me. You can reach me on discord through my discord tag: Vise#9017...
 
 🛠  Tech Stack
-- 🌐 HTML, CSS, JS, Node.JS
-- 📊 Python
-- ⚙️ Git
+- Java, Node.js, Javascript, Python, CSS, HTML, GIT
 
 <!---
 BAronHW/BAronHW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
