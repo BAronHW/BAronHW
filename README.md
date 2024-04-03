@@ -6,7 +6,7 @@
 - 📫 How to reach me. You can reach me on discord through my discord tag: baronhw...
 
 🛠  Tech Stack
-- Java, Node.js, Javascript, Python, CSS, HTML, GIT
+- Java, Node.js, Javascript, React.js, Python, CSS, HTML, GIT
 
 <!---
 BAronHW/BAronHW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
