@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on anything. I am excited and willing to learn anything...
 - 📫 How to reach me. You can reach me on discord through my discord tag: baronhw...
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 🛠  Tech Stack
 - Java, Node.js, Javascript, React.js, Python, CSS, HTML, GIT
