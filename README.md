@@ -7,7 +7,7 @@
 
 
 🛠  Tech Stack
-- Java, Node.js, Javascript, React.js, Python, CSS, HTML, GIT
+- Java, Node.js, Javascript, React.js, Python, CSS, HTML, GIT, C, MatLab
 
 <!---
 BAronHW/BAronHW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
