@@ -9,7 +9,7 @@
 🛠  Tech Stack
 - Java, Node.js, Javascript, React.js, Python, CSS, HTML, GIT, C, MatLab
 
-- Portfolio Website
+Portfolio Website
 - https://baron-web.netlify.app/
 
 <!---
