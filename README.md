@@ -12,6 +12,8 @@
 Portfolio Website
 - https://baron-web.netlify.app/
 
+Computer Science/Software engineering/AI/ML Blog
+- https://csblog-1aa18.web.app/
 <!---
 BAronHW/BAronHW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
