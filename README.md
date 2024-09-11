@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m @BAronHW<br>    👀 I’m interested in all things tech related. I currently have an interest in Full-Stack development, Machine learning and Deep learning...<br>    🌱 I’m currently studying at Lancaster University and learning from the Odin Project for full stack development and looking at AI...<br>    💞️ I’m looking to collaborate on anything. I am excited and willing to learn anything...<br>    📫 How to reach me. You can reach me on discord through my discord tag: baronhw...<br>
+<br>    👋 Hi, I’m @BAronHW<br>    👀 I’m interested in all things tech related. I currently have an interest in Full-Stack development, Machine learning and Deep learning...<br>    🌱 I’m currently studying at Lancaster University and learning from the Odin Project for full stack development and looking at AI...<br>    💞️ I’m looking to collaborate on anything. I am excited and willing to learn anything...<br> Currently working as a software engineering intern at PortF ...<br>    📫 How to reach me. You can reach me on discord through my discord tag: baronhw...<br>
 
 
 ## 🌐 Socials:
