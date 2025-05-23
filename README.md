@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 - Typescript,
 - Node.js,
-- Java,
+- Java (Planning to learn Spring Boot),
 - C# (still learning)
 - PostgreSQL
 - Python
