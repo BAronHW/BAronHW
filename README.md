@@ -1,5 +1,5 @@
 # About Me:
-<br> - Hi, I’m Aaron<br>    - I’m interested in Fullstack development, Backend development, Cloud Engineering, Systems programming, Databases, Distributed systems and AI...<br>    - I’m currently a Junior full stack software engineer at Equilibrium Markets with a leaning towards backend development...<br>   - I’m looking to collaborate on anything. I am excited and willing to learn anything.
+<br> - Hi, I’m Aaron<br>    - I’m interested in Fullstack development, Backend development, Cloud Engineering, Systems programming, Databases, Distributed systems and AI...<br>    - I’m currently a software engineer at Quantexa with a leaning towards backend development...<br>   - I’m looking to collaborate on anything. I am excited and willing to learn anything.
 
 
 ## 🌐 Socials:
