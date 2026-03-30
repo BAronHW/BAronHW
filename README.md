@@ -19,9 +19,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Portfolio Website
-- https://baron-web.netlify.app/
-
 Computer Science/Software engineering/AI/ML Blog
 - https://csblog-1aa18.web.app/
 <!---
