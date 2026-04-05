@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-wan-ho-lam) 
 
 # 💻 Tech Stack:
+- Java (Through academia)
 - Typescript,
 - Node.js,
 - PostgreSQL,
